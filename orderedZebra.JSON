@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "Constraint_one": {
+        "House1": ["---"],
+        "House2": ["---"],
+        "House3": ["---"],
+        "House4": ["---"],
+        "House5": ["---"]
+      },
+      "Constraint_nine": {
+        "House1": ["---"],
+        "House2": ["---"],
+        "House3": ["dri(mil", "---"],
+        "House4": ["---"],
+        "House5": ["---"]
+      },
+      "Constraint_ten": {
+        "House1": ["nat(nor", "---"],
+        "House2": ["---"],
+        "House3": ["dri(mil", "---"],
+        "House4": ["---"],
+        "House5": ["---"]
+      },
+      "Constraint_fifteen": {
+        "House1": ["nat(nor", "---"],
+        "House2": ["col(blu", "---"],
+        "House3": ["dri(mil", "---"],
+        "House4": ["---"],
+        "House5": ["---"]
+      },
+      "Constraint_six": [
+        {
+          "House1": ["nat(nor", "---"],
+          "House2": ["col(blu", "---"],
+          "House3": ["dri(mil", "---"],
+          "House4": ["col(ivo", "---"],
+          "House5": ["col(gre", "---"]
+        },
+        {
+          "House1": ["nat(nor", "---"],
+          "House2": ["col(blu", "---"],
+          "House3": ["col(ivo", "dri(mil", "---"],
+          "House4": ["col(gre", "---"],
+          "House5": ["---"]
+        }
+      ],
+      "Constraint_two": [
+        {
+          "House1": ["nat(nor", "---"],
+          "House2": ["col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["col(ivo", "---"],
+          "House5": ["col(gre", "---"]
+        },
+        {
+          "House1": ["nat(nor", "---"],
+          "House2": ["col(blu", "---"],
+          "House3": ["dri(mil", "col(ivo", "---"],
+          "House4": ["col(gre", "---"],
+          "House5": ["col(red", "nat(eng", "---"]
+        }
+      ],
+      "Constraint_four": {
+        "House1": ["nat(nor", "---"],
+        "House2": ["col(blu", "---"],
+        "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+        "House4": ["col(ivo", "---"],
+        "House5": ["col(gre", "dri(cof", "---"]
+      },
+      "Constraint_eight": {
+        "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+        "House2": ["col(blu", "---"],
+        "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+        "House4": ["col(ivo", "---"],
+        "House5": ["col(gre", "dri(cof", "---"]
+      },
+      "Constraint_twelve": {
+        "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+        "House2": ["col(blu", "pet(hor", "---"],
+        "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+        "House4": ["col(ivo", "---"],
+        "House5": ["col(gre", "dri(cof", "---"]
+      },
+      "Constraint_three": [
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["pet(hor", "col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["col(ivo", "---"],
+          "House5": ["nat(spa", "col(gre", "pet(dog", "dri(cof", "---"]
+        },
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["pet(hor", "col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["nat(spa", "pet(dog", "col(ivo", "---"],
+          "House5": ["col(gre", "dri(cof", "---"]
+        }
+      ],
+      "Constraint_five": [
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["col(blu", "pet(hor", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["dri(tea", "nat(ukr", "col(ivo", "---"],
+          "House5": ["nat(spa", "col(gre", "pet(dog", "dri(cof", "---"]
+        },
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["col(blu", "dri(tea", "nat(ukr", "pet(hor", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["col(ivo", "---"],
+          "House5": ["nat(spa", "col(gre", "pet(dog", "dri(cof", "---"]
+        },
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["col(blu", "dri(tea", "nat(ukr", "pet(hor", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["nat(spa", "pet(dog", "col(ivo", "---"],
+          "House5": ["col(gre", "dri(cof", "---"]
+        }
+      ],
+      "Constraint_thirteen": [
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["smo(luc", "dri(ora", "pet(hor", "col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["dri(tea", "nat(ukr", "col(ivo", "---"],
+          "House5": ["nat(spa", "col(gre", "pet(dog", "dri(cof", "---"]
+        },
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["dri(tea", "nat(ukr", "pet(hor", "col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["smo(luc", "dri(ora", "col(ivo", "---"],
+          "House5": ["nat(spa", "col(gre", "pet(dog", "dri(cof", "---"]
+        },
+        {
+          "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+          "House2": ["dri(tea", "nat(ukr", "pet(hor", "col(blu", "---"],
+          "House3": ["col(red", "dri(mil", "nat(eng", "---"],
+          "House4": ["smo(luc", "nat(spa", "dri(ora", "pet(dog", "col(ivo"],
+          "House5": ["col(gre", "dri(cof", "---"]
+        }
+      ],
+      "Constraint_fourteen": {
+        "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+        "House2": ["dri(tea", "col(blu", "nat(ukr", "pet(hor", "---"],
+        "House3": ["dri(mil", "nat(eng", "col(red", "---"],
+        "House4": ["smo(luc", "dri(ora", "pet(dog", "col(ivo", "nat(spa"],
+        "House5": ["smo(par", "nat(jap", "col(gre", "dri(cof", "---"]
+      },
+      "Constraint_seven": {
+        "House1": ["smo(koo", "col(yel", "nat(nor", "---"],
+        "House2": ["dri(tea", "col(blu", "nat(ukr", "pet(hor", "---"],
+        "House3": ["dri(mil", "pet(sna", "nat(eng", "smo(old", "col(red"],
+        "House4": ["smo(luc", "dri(ora", "pet(dog", "col(ivo", "nat(spa"],
+        "House5": ["nat(jap", "smo(par", "col(gre", "dri(cof", "---"]
+      },
+      "Constraint_eleven": {
+        "House1": ["smo(koo", "col(yel", "nat(nor", "pet(fox", "---"],
+        "House2": ["dri(tea", "col(blu", "smo(che", "nat(ukr", "pet(hor"],
+        "House3": ["dri(mil", "pet(sna", "nat(eng", "smo(old", "col(red"],
+        "House4": ["smo(luc", "dri(ora", "pet(dog", "col(ivo", "nat(spa"],
+        "House5": ["nat(jap", "smo(par", "col(gre", "dri(cof", "---"]
+      }
+    }
+  ]
+}

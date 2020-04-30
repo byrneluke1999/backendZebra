@@ -1,0 +1,16 @@
+nat,col,dri,smo,pet
+['1|2|3|4|5'] one
+('nat(eng),col(red)') two
+('nat(spa),pet(dog)') three
+('dri(cof),col(gre)') four
+('dri(tea),nat(ukr)') five
+('col(ivo)|col(gre)') six
+('smo(old),pet(sna)') seven
+('smo(koo),col(yel)') eight
+['1|2|3,dri(mil)|4|5'] nine
+['1,nat(nor)|2|3|4|5'] ten
+('smo(che)|pet(fox)')+('pet(fox)|smo(che)') eleven
+('smo(koo)|pet(hor)')+('pet(hor)|smo(koo)') twelve
+('smo(luc),dri(ora)') thirteen
+('nat(jap),smo(par)') fourteen
+('nat(nor)|col(blu)')+('col(blu)|nat(nor)') fifteen
